@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Hello! I'm Riliwan, a versatile Web Developer with a passion for crafting exceptional digital experiences. My mission is to combine technology, creativity, and problem-solving to build user-friendly and visually stunning websites.<br><br>🌐 With a strong foundation in front-end development, and backend development I specialize in HTML, CSS, JavaScript Python and PHP utilizing modern frameworks like Laravel and Django to bring ideas to life. I am committed to writing clean, efficient code and ensuring cross-browser compatibility and responsive design.<br><br>💡 Constantly curious and eager to learn, I stay up to date with the latest web technologies and industry trends. I love exploring new tools and frameworks that enhance productivity and improve user experiences. From responsive layouts to interactive animations, I'm always seeking innovative ways to elevate the web.<br><br>🤝 Collaboration and teamwork are at the core of my work philosophy. I thrive in diverse and inclusive environments where I can learn from others and contribute my expertise. I believe effective communication and open-mindedness are essential for successful projects, and I enjoy collaborating with designers, UX specialists, and backend developers to create cohesive solutions.
+👋 Hello! I'm Riliwan, a passionate Full Stack Developer with a diverse skill set and a love for crafting innovative web applications. With expertise in both front-end and back-end technologies, I thrive in creating seamless user experiences and robust functionality.
+
+On the front-end, I specialize in HTML, CSS, and JavaScript, using modern frameworks like React and Angular to build dynamic and responsive user interfaces. I have a keen eye for design and enjoy translating wireframes and mockups into pixel-perfect layouts.
+
+On the back-end, I have experience working with various programming languages such as Python, PHP, or JavaScript (Node.js). I am proficient in using frameworks like Django, Laravel , or Express.js to develop scalable and efficient server-side applications. I have worked with databases like MySQL, MongoDB, or PostgreSQL to ensure seamless data management.
+
+I am adept at API integration, enabling smooth communication between different parts of an application or connecting with third-party services. I am comfortable working with version control systems like Git and deploying applications to cloud platforms such as AWS or Heroku.
+
+As a Full Stack Developer, I thrive on problem-solving and finding elegant solutions to complex challenges. I am a quick learner and always eager to stay updated with the latest technologies and industry best practices. I enjoy collaborating with cross-functional teams, where I can contribute my expertise and work collectively towards creating exceptional web experiences.
+
 
 
 # 💻 Tech Stack:
