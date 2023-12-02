@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [cms project](https://github.com/Riliwan-dev/Php-Project/tree/main/Php%20Project/cms)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **css,Javascript,react,Php**
 
-- 📫 How to reach me **genius.rio121@gmail.com**
+- 📫 How to reach me **belloriliwan150@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
