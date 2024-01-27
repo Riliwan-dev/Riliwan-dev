@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riliwan</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria,Lagos</h3>
+<h3 align="center">A passionate  MERN Stack developer from Nigeria,Lagos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riliwan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="riliwan-dev" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@rioratto" target="blank"><img src="https://img.shields.io/twitter/follow/@rioratto?logo=twitter&style=for-the-badge" alt="@rioratto" /></a> </p>
 
-- 🔭 I’m currently working on [cms project](https://github.com/Riliwan-dev/Php-Project/tree/main/Php%20Project/cms)
+- 🔭 I’m currently working on [React project](https://github.com/Riliwan-dev/React-Project.git)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **css,Javascript,react,Php**
+- 💬 Ask me about **css/Sass,Javascript,React,Expressjs,MongoDb,Nextjs**
 
 - 📫 How to reach me **belloriliwan150@gmail.com**
 
