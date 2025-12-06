@@ -14,7 +14,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
+**Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js, Bootstrap  
 **Backend:** Node.js, Express.js, PHP  
 **Database:** MongoDB, MySQL (SQL)  
 **Tools:** Git, GitHub, VS Code  
@@ -22,6 +22,8 @@ I love turning ideas into responsive, functional apps and improving through chal
 ---
 
 ### 🚀 Current Projects
+-    **Chatbot** - React + Javascript + Css
+-    **Book App Manager** React + Javascript + Css
 - 🌤️ **Weather App** – React + OpenWeather API  
 - 🎲 **Dice Rolling Simulator** – JavaScript + CSS  
 - 🍲 **Recipe Finder App** – HTML, CSS, JavaScript  
