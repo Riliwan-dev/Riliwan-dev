@@ -23,6 +23,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 
 ### 🚀 Current Projects
 -    **Chatbot** - React + Javascript + Css
+-    **Javascript Project Repo**
 -    **Book App Manager** React + Javascript + Css
 - 🌤️ **Weather App** – React + OpenWeather API  
 - 🎲 **Dice Rolling Simulator** – JavaScript + CSS  
