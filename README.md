@@ -17,13 +17,13 @@ I love turning ideas into responsive, functional apps and improving through chal
 **Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js, Bootstrap  
 **Backend:** Node.js, Express.js, PHP  
 **Database:** MongoDB, MySQL (SQL)  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** Git, GitHub, VS Code  Gitlab,Stackover flow
 
 ---
 
 ### 🚀 Current Projects
 -    **Chatbot** - React + Javascript + Css
--    **Javascript Project Repo**
+-    **Javascript Project Repo** - Javscript + css
 -    **Book App Manager** React + Javascript + Css
 - 🌤️ **Weather App** – React + OpenWeather API  
 - 🎲 **Dice Rolling Simulator** – JavaScript + CSS  
