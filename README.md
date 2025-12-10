@@ -22,6 +22,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 ---
 
 ### 🚀 Current Projects
+-    **Ecommerce** - React + Javascript + Css
 -    **Chatbot** - React + Javascript + Css
 -    **Javascript Project Repo** - Javscript + css
 -    **Book App Manager** React + Javascript + Css
