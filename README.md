@@ -23,6 +23,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 
 ### 🚀 Current Projects
 -    **Ecommerce** - React + Javascript + Css
+-    **Kashdan Dashboard** - Javascript + css
 -    **Recipt finder** Javascript + css
 -    **Image Finder** Javascript + css
 -    **Stat Counter** - React + Javascript + Css
