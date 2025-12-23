@@ -9,7 +9,7 @@ I’m an undergraduate student studying **Statistics** with a growing passion fo
 My journey started with **HTML, CSS, PHP, and SQL**, which built my foundation in web design and database logic.  
 I’m now focused on modern JavaScript technologies — learning and building projects with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 
-I love turning ideas into responsive, functional apps and improving through challenges from **Frontend Mentor** and **Udemy tutorials**.**Coursera** **Youtube tutorial**
+I love turning ideas into responsive, functional apps and improving through challenges from **Frontend Mentor** and **Udemy tutorials**.**Coursera** **Youtube tutorial** **Goggle**
 
 ---
 
