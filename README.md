@@ -17,7 +17,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 **Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js, Bootstrap  
 **Backend:** Node.js, Express.js, PHP  
 **Database:** MongoDB, MySQL (SQL)  
-**Tools:** Git, GitHub, VS Code  Gitlab,Stackoverflow, Discord, Medium.
+**Tools:** Git, GitHub, VS Code  Gitlab
 
 ---
 
@@ -58,7 +58,6 @@ Check them out in my [Repositories]( https://github.com/Riliwan-dev)!
 🔗 [LinkedIn](www.linkedin.com/in/
 riliwan-bello001)  
 💻 [GitHub https://github.com/Riliwan-dev
-X rioratto
 
 ---
 
