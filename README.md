@@ -22,10 +22,10 @@ I love turning ideas into responsive, functional apps and improving through chal
 ---
 
 ### 🚀 Current Projects
--    **Ecommerce** - React + Javascript + Css
--    **Kashdan Dashboard** - Javascript + css
--    **Stat Counter** - React + Javascript + Css
--    **Chatbot** - React + Javascript + Css
+-    **Ecommerce** - React + Javascript + Css + HTML
+-    **Kashdan Dashboard** - Javascript + css + HTML
+-    **Stat Counter** - React + Javascript + Css + HTML
+-    **Chatbot** - React + Javascript + Css + HTML
 -    **Book App Manager** React + Javascript + Css
 - 🌤️ **Weather App** – React + OpenWeather API  
 - 🎲 **Dice Rolling Simulator** – JavaScript + CSS  
