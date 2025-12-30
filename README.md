@@ -14,7 +14,7 @@ I love turning ideas into responsive, functional apps and improving through chal
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js, Bootstrap  
+**Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js
 **Backend:** Node.js, Express.js, PHP  
 **Database:** MongoDB, MySQL (SQL)  
 **Tools:** Git, GitHub, VS Code  Gitlab
