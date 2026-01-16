@@ -1,61 +1,55 @@
-# 👋 Hi, I'm Riliwan Bello
+## 👋 Hi, I’m Riliwan Bello
 
-🎯 **Mern-Stack Developer (MERN) | Building Clean & Insightful Solutions**
-
----
-
-### 👨🏽‍💻 About Me
-I’m an undergraduate student studying **Statistics** with a growing passion for **web development and data-driven applications**.  
-My journey started with **HTML, CSS, PHP, and SQL**, which built my foundation in web design and database logic.  
-I’m now focused on modern JavaScript technologies — learning and building projects with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-
-I love turning ideas into responsive, functional apps and improving through challenges from **Frontend Mentor** and **Udemy tutorials**.
+🚀 Frontend / MERN Stack Developer  
+🎓 Computer Science Undergraduate (Graduating 2029)  
+💡 Passionate about building clean, responsive, and user-focused web applications
 
 ---
 
-### 🧰 Tech Stack
-**Frontend:** HTML, CSS, SASS, Taiwind, JavaScript, React.js
-**Backend:** Node.js, Express.js, PHP  
-**Database:** MongoDB, MySQL (SQL)  
-**Tools:** Git, GitHub, VS Code  Gitlab, Stackoverflow.
+## 🧠 About Me
+I’m a self-driven web developer with 2+ years of hands-on experience building frontend and full-stack projects using modern web technologies. I enjoy turning ideas into functional, visually appealing digital products and I’m constantly learning to improve my craft.
+
+I’m currently seeking internship opportunities where I can grow, collaborate with experienced developers, and contribute to real-world projects.
 
 ---
 
-### 🚀 Current Projects
--    **Ecommerce** - React + Javascript + Css + HTML
--    **Kashdan Dashboard** - Javascript + css + HTML
--    **Stat Counter** - React + Javascript + Css + HTML
--    **Book App Manager** React + Javascript + Css
-- 🌤️ **Weather App** – React + OpenWeather API  
-- 🎲 **Dice Rolling Simulator** – JavaScript + CSS  
-- 🍲 **Recipe Finder App** – HTML, CSS, JavaScript  
-- 🪞 **Frontend Mentor Challenges** – Intermediate → Advanced  
-
-Check them out in my [Repositories]( https://github.com/Riliwan-dev)!
-
------
-
-### 🌱 Currently Learning
-- React Hooks and Context API  
-- Node.js + Express backend architecture  
-- API integration and deployment with Vercel  
+## 🛠️ Tech Stack & Tools
+- Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, TypeScript  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, MySQL  
+- Tools: Git, GitHub, VS Code, Figma  
+- Other: Responsive Design, UI/UX Principles, REST APIs
 
 ---
 
-### 🤝 Open to
-- Remote/part-time roles (Frontend, Full-Stack, or React Developer)
-- Collaborations on beginner-friendly MERN projects  
+## 📌 Featured Projects
+🔹 Book Manager App  
+A CRUD-based application for managing books with clean UI and structured logic.  
+Tech: HTML, CSS, JavaScript  
+
+🔹 Kanban Task Management Dashboard  
+A Trello-style task board with modern UI and interactive task handling.  
+Tech: JavaScript, CSS, HTML  
+
+🔹 E-commerce Platform (Frontend)  
+Product listing, cart functionality, and responsive layout.  
+Tech: HTML, CSS, JavaScript  
 
 ---
 
-### 📫 Contact
-+234 703 902 4642
-📧 **belloriliwan001@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/
-riliwan-bello001)  
-💻 [GitHub https://github.com/Riliwan-dev
+## 🌱 Currently Learning
+- Advanced React Patterns  
+- Backend Optimization  
+- Clean Code & Best Practices  
+- Real-world System Design
 
 ---
 
-> “Keep building, keep improving — every project adds a new layer to your skill.
-nothing to comit 
+## 📫 Let’s Connect
+GitHub: https://github.com/Riliwan-dev  
+Portfolio: Coming Soon  
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats talent — small improvements every day compound massively.
