@@ -55,4 +55,4 @@ Portfolio: Coming Soon
 I believe consistency beats talent — small improvements every day compound massively.
 
 Still building.
-Nothing 
+Nothing to commit for todys
