@@ -56,3 +56,5 @@ I believe consistency beats talent — small improvements every day compound mas
 
 Still building.
 Consistency iw the key
+Never give up 
+Its take times
