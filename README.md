@@ -55,5 +55,3 @@ Portfolio: Coming Soon
 I believe consistency beats talent — small improvements every day compound massively.
 
 Still building.
-Nothiing to commit
-consistency is always the key
