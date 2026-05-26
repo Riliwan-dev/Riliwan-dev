@@ -1,4 +1,4 @@
-3Y## 👋 Hi, I’m Riliwan Bello
+👋 Hi, I’m Riliwan Bello
 
 🚀 Frontend / MERN Stack Developer  
 🎓 Statistics Undergraduate (Graduating 2029)  
@@ -18,8 +18,8 @@ I’m currently seeking internship opportunities where I can grow, collaborate w
 - Backend: Node.js, Express.js  
 - Database: MongoDB, MySQL  
 - Tools: Git, GitHub, VS Code, Figma  
-- Other: Responsive Design, UI/UX Principles, REST APIs
-
+- Other: Responsive Design, UI/UX Principles, REST APIs9
+?6
 ---
 
 ## 📌 Featured Projects
