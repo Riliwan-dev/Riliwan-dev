@@ -54,4 +54,4 @@ Portfolio: Coming Soon
 ## ⚡ Fun Fact
 I believe consistency beats talent — small improvements every day compound massively.
 r
-Still building.
+Still buildinga
