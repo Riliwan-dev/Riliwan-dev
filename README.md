@@ -1,4 +1,4 @@
-👋 Hi, I’m Riliwan Bello
+f👋 Hi, I’m Riliwan Bello
 
 🚀 Frontend / MERN Stack Developer  
 🎓 Statistics Undergraduate (Graduating 2029)  
@@ -53,5 +53,5 @@ Portfolio: Coming Soon
 
 ## ⚡ Fun Fact
 I believe consistency beats talent — small improvements every day compound massively.
-r
+
 Still buildinga
