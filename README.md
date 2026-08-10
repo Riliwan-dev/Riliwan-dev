@@ -1,7 +1,7 @@
 fdf👋 Hi, I’m Riliwan Bello
 
 🚀 Frontend / MERN Stack Developer  
-🎓 Statistics Undergraduate (Graduating 2029)  
+🎓 Statistics Undergraduate (Graduating 2028)  
 💡 Passionate about building clean, responsive, and user-focused web applications
 
 ---
