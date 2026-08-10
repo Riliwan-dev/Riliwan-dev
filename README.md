@@ -1,4 +1,4 @@
-fdf👋 Hi, I’m Riliwan Bello
+👋 Hi, I’m Riliwan Bello
 
 🚀 Frontend / MERN Stack Developer  
 🎓 Statistics Undergraduate (Graduating 2028)  
