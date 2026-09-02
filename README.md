@@ -18,7 +18,7 @@ I’m currently seeking internship opportunities where I can grow, collaborate w
 - Backend: Node.js, Express.js  
 - Database: MongoDB, MySQL  
 - Tools: Git, GitHub, VS Code, Figma  
-- Other: Responsive Design, UI/UX Principles, REST APIs9
+- Other: Responsive Design, UI/UX Principles, REST API
 ?6
 ---
 
@@ -47,7 +47,7 @@ Tech: HTML, CSS, JavaScript
 
 ## 📫 Let’s Connect
 GitHub: https://github.com/Riliwan-dev  
-Portfolio: Coming Soon  
+Portfolio: 
 
 ---
 
