@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-I’m a self-driven web developer with 2+ years of hands-on experience building frontend and full-stack projects using modern web technologies. I enjoy turning ideas into functional, visually appealing digital products and I’m constantly learning to improve my craft.
+I’m a self-driven web developer with 4+ years of hands-on experience building frontend and full-stack projects using modern web technologies. I enjoy turning ideas into functional, visually appealing digital products and I’m constantly learning to improve my craft.
 
 I’m currently seeking internship opportunities where I can grow, collaborate with experienced developers, and contribute to real-world projects.
 
