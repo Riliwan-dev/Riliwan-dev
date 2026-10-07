@@ -55,4 +55,4 @@ I believe consistency beats talent — small improvements every day compound mas
 
 Still buildings.
 investing
-Atomic Habit
+The biggest risk is not taking risk
