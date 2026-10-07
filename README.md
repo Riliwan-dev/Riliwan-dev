@@ -55,3 +55,4 @@ I believe consistency beats talent — small improvements every day compound mas
 
 Still buildings.
 The biggest risk is not taking risk
+investing
