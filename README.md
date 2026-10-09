@@ -16,10 +16,10 @@ I’m currently seeking internship opportunities where I can grow, collaborate w
 ## 🛠️ Tech Stack & Tools
 - Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, TypeScript  
 - Backend: Node.js, Express.js  
-- Database: MongoDB, MySQL  
+- Database: MongoDB, MySQL, Postgre
 - Tools: Git, GitHub, VS Code, Figma  
 - Other: Responsive Design, UI/UX Principles, REST API
-?6
+
 ---
 
 ## 📌 Featured Projects
@@ -54,6 +54,3 @@ Portfolio: https://belloriliwan.vercel.app/
 I believe consistency beats talent — small improvements every day compound massively.
 
 Still buildings.
-The biggest risk is not taking risk
-investing
-Atomic Habit
