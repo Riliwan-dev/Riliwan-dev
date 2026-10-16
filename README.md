@@ -55,3 +55,4 @@ I believe consistency beats talent — small improvements every day compound mas
 
 Still buildings.
 Raise your standard
+Bussiness ideass 
