@@ -53,5 +53,5 @@ Portfolio: https://belloriliwan.vercel.app/
 ## ⚡ Fun Fact
 I believe consistency beats talent — small improvements every day compound massively.
 
-Still buildings.
-Testing 
+Still building.
+Atomic Habit
