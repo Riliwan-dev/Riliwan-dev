@@ -54,3 +54,6 @@ Portfolio: https://belloriliwan.vercel.app/
 I believe consistency beats talent — small improvements every day compound massively.
 
 Still building.
+Atomic Habit
+Deep work 
+Think rich and grow rich
