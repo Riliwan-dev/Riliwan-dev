@@ -54,5 +54,3 @@ Portfolio: https://belloriliwan.vercel.app/
 I believe consistency beats talent — small improvements every day compound massively.
 
 Still building.
-Atomic habit
-The biggest risk is not taking risk
