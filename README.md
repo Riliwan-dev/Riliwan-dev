@@ -1,56 +1,40 @@
-h👋 Hi, I’m Riliwan Bello
+👋 Hi, I’m Riliwan Bello
 
-🚀 MERN Stack Developer  
-🎓 Statistics Undergraduate (Graduating 2028)  
-💡 Passionate about building clean, responsive, and user-focused web applications
+🚀 Full-Stack Data & MERN Engineer  
+🎓 Statistics Undergraduate at FUTA (Graduating 2028)  
+💡 Passionate about bridging theoretical statistics, backend systems, and clean data-driven web applications.
 
 ---
 
 ## 🧠 About Me
-I’m a self-driven web developer with 4+ years of hands-on experience building frontend and full-stack projects using modern web technologies. I enjoy turning ideas into functional, visually appealing digital products and I’m constantly learning to improve my craft.
-
-I’m currently seeking internship opportunities where I can grow, collaborate with experienced developers, and contribute to real-world projects.
+I’m a self-driven software developer with hands-on experience building full-stack platforms, database aggregation pipelines, and real-time operational analytics dashboards. Combining my background in Statistics with modern MERN stack development, I focus on data integrity, logical precision, and scalable system architecture.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- Frontend: HTML, CSS, SCSS, Bootstrap, JavaScript, React, TypeScript  
-- Backend: Node.js, Express.js  
-- Database: MongoDB, MySQL, Postgre
-- Tools: Git, GitHub, VS Code, Figma  
-- Other: Responsive Design, UI/UX Principles, REST API
+- **Data & Analytics:** Excel, Python (Pandas/NumPy), SQL, Stata, SPSS, Power BI, Statistical Logic
+- **Backend & APIs:** Node.js, Express.js, RESTful APIs, JWT Authentication, Mongoose Atomic Transactions
+- **Frontend & UI:** React.js, TypeScript, JavaScript, Tailwind CSS, SASS, Bootstrap
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & DevOps:** Git, GitHub, Postman API, VS Code, Vercel, AWS
 
 ---
 
 ## 📌 Featured Projects
-🔹 Book Manager App  
-A CRUD-based application for managing books with clean UI and structured logic.  
-Tech: HTML, CSS, JavaScript  
+🔹 **Pulse Analytics (SaaS Operations & Metrics Dashboard)**  
+A production-grade MERN dashboard featuring real JWT auth, role-based access control, and full CRUD data management — visualizing revenue, users, and conversion metrics through live Recharts.  
+*Tech:* React, Tailwind, Node.js, Express, MongoDB, Recharts  
 
-🔹 Kanban Task Management Dashboard  
-A Trello-style task board with modern UI and interactive task handling.  
-Tech: JavaScript, CSS, HTML  
+🔹 **DevPulse (Collaborative Workspace & Sprint Planner)**  
+Full-stack developer productivity workspace featuring sprint velocity tracking, task boards, active project health metrics, and role-based demo accounts.  
+*Tech:* MongoDB, Express, React, Node.js, Tailwind CSS  
 
-🔹 E-commerce Platform (Frontend)  
-Product listing, cart functionality, and responsive layout.  
-Tech: HTML, CSS, JavaScript  
-
----
-
-## 🌱 Currently Learning
-- Advanced React Patterns  
-- Backend Optimization  
-- Clean Code & Best Practices  
-- Real-world System Design
+🔹 **Christos Foundation Platform**  
+A full-stack nonprofit platform with secure Paystack donations, an animated impact-stats counter, and a server-side contact/donation pipeline.  
+*Tech:* React, Node.js, Express, Paystack API, Nodemailer  
 
 ---
 
 ## 📫 Let’s Connect
-GitHub: https://github.com/Riliwan-dev  
-Portfolio: https://belloriliwan.vercel.app/
----
-
-## ⚡ Fun Fact
-I believe consistency beats talent — small improvements every day compound massively.
-
-Still building.
+- GitHub: https://github.com/Riliwan-dev  
+- Portfolio: https://belloriliwan.vercel.app/
