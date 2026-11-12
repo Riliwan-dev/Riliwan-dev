@@ -38,4 +38,3 @@ A full-stack nonprofit platform with secure Paystack donations, an animated impa
 ## 📫 Let’s Connect
 - GitHub: https://github.com/Riliwan-dev  
 - Portfolio: https://belloriliwan.vercel.app/
-  hello
